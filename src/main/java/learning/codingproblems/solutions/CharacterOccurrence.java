@@ -30,5 +30,4 @@ public class CharacterOccurrence {
 		}
 		System.out.println(strChar);
 	}
-
 }
